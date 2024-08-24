@@ -1,1 +1,1 @@
-Url -> https://flask-zhoz.onrender.com
+Url -> https://flask-zhoz.onrender.com/forms
